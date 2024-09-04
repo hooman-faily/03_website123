@@ -1,0 +1,18 @@
+nav{
+    background-color: #e6e6e6;
+}
+ul.navList{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.navList li{
+    display: inline-block;
+}
+.navList li a{
+    display: inline-block;
+    padding: 10px 22px;
+    text-decoration: none;
+    background-color: #4d4d4d;
+    color: white;
+}
